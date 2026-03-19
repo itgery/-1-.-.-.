@@ -1,0 +1,14 @@
+validation\CoordinatesValidator.class
+cli\CommandInterpreter.class
+validation\PersonValidator.class
+storage\FileManager$ParsingContext.class
+validation\ValidationResult.class
+domain\Color.class
+domain\Country.class
+Main.class
+service\CollectionManager.class
+domain\Location.class
+validation\LocationValidator.class
+domain\Person.class
+storage\FileManager.class
+domain\Coordinates.class

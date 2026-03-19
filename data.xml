@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+    <person>
+        <id>1</id>
+        <name>Иванов Иван Иванович</name>
+        <coordinates>
+            <x>10</x>
+            <y>20.5</y>
+        </coordinates>
+        <creationDate>1710589245000</creationDate>
+        <height>175.5</height>
+        <birthday>1990-05-15T00:00:00</birthday>
+        <hairColor>BROWN</hairColor>
+        <nationality>RUSSIA</nationality>
+        <location>
+            <x>15.5</x>
+            <y>30.2</y>
+            <z>5</z>
+        </location>
+    </person>
+    
+    <person>
+        <id>2</id>
+        <name>Петров Петр Петрович</name>
+        <coordinates>
+            <x>25</x>
+            <y>45.7</y>
+        </coordinates>
+        <creationDate>1710589246000</creationDate>
+        <height>182.0</height>
+        <birthday>1988-08-20T00:00:00</birthday>
+        <hairColor>YELLOW</hairColor>
+        <nationality>RUSSIA</nationality>
+        <location>
+            <x>30.5</x>
+            <y>50.2</y>
+            <z>7</z>
+        </location>
+    </person>
+    
+    <person>
+        <id>3</id>
+        <name>Сидоров Сидор Сидорович</name>
+        <coordinates>
+            <x>40</x>
+            <y>60.3</y>
+        </coordinates>
+        <creationDate>1710589247000</creationDate>
+        <height>168.5</height>
+        <birthday>1995-03-10T00:00:00</birthday>
+        <hairColor>GREEN</hairColor>
+        <nationality>RUSSIA</nationality>
+        <location>
+            <x>45.2</x>
+            <y>70.8</y>
+            <z>3</z>
+        </location>
+    </person>
+    
+    <person>
+        <id>4</id>
+        <name>Smith John</name>
+        <coordinates>
+            <x>100</x>
+            <y>150.0</y>
+        </coordinates>
+        <creationDate>1710589248000</creationDate>
+        <height>190.0</height>
+        <birthday>1985-12-25T00:00:00</birthday>
+        <hairColor>YELLOW</hairColor>
+        <nationality>UNITED_KINGDOM</nationality>
+        <location>
+            <x>110.5</x>
+            <y>160.0</y>
+            <z>10</z>
+        </location>
+    </person>
+    
+    <person>
+        <id>5</id>
+        <name>Croissanty Guy</name>
+        <coordinates>
+            <x>200</x>
+            <y>250.0</y>
+        </coordinates>
+        <creationDate>1710589249000</creationDate>
+        <height>165.0</height>
+        <birthday>1992-07-14T00:00:00</birthday>
+        <hairColor>BROWN</hairColor>
+        <nationality>FRANCE</nationality>
+        <location>
+            <x>210.8</x>
+            <y>260.5</y>
+            <z>2</z>
+        </location>
+    </person>
+    
+    <person>
+        <id>6</id>
+        <name>Korean Guy</name>
+        <coordinates>
+            <x>300</x>
+            <y>350.0</y>
+        </coordinates>
+        <creationDate>1710589250000</creationDate>
+        <height>170.0</height>
+        <birthday>1983-01-08T00:00:00</birthday>
+        <hairColor>BROWN</hairColor>
+        <nationality>SOUTH_KOREA</nationality>
+        <location>
+            <x>310.3</x>
+            <y>360.7</y>
+            <z>15</z>
+        </location>
+    </person>
+    
+    <person>
+        <id>7</id>
+        <name>Без Дня Рождения</name>
+        <coordinates>
+            <x>50</x>
+            <y>55.5</y>
+        </coordinates>
+        <creationDate>1710589251000</creationDate>
+        <height>172.0</height>
+        <birthday></birthday>  <!-- Пустая строка = null -->
+        <hairColor></hairColor>  <!-- Пустая строка = null -->
+        <nationality></nationality>  <!-- Пустая строка = null -->
+        <location>
+            <x>60.0</x>
+            <y>65.5</y>
+            <z>4</z>
+        </location>
+    </person>
+    
+    <person>
+        <id>8</id>
+        <name>Без Местоположения</name>
+        <coordinates>
+            <x>70</x>
+            <y>75.5</y>
+        </coordinates>
+        <creationDate>1710589252000</creationDate>
+        <height>177.5</height>
+        <birthday>1987-09-30T00:00:00</birthday>
+        <hairColor>GREEN</hairColor>
+        <nationality>RUSSIA</nationality>
+        <!-- location отсутствует = null -->
+    </person>
+    
+    <person>
+        <id>9</id>
+        <name>Минимальный</name>
+        <coordinates>
+            <x>80</x>
+            <y>85.5</y>
+        </coordinates>
+        <creationDate>1710589253000</creationDate>
+        <height>160.0</height>
+        <birthday></birthday>
+        <hairColor></hairColor>
+        <nationality></nationality>
+        <!-- location отсутствует -->
+    </person>
+    
+    <person>
+        <id>10</id>
+        <name>Александров Александр</name>
+        <coordinates>
+            <x>90</x>
+            <y>95.0</y>
+        </coordinates>
+        <creationDate>1710589254000</creationDate>
+        <height>185.0</height>
+        <birthday>1993-11-11T00:00:00</birthday>
+        <hairColor>BROWN</hairColor>
+        <nationality>RUSSIA</nationality>
+        <location>
+            <x>100.2</x>
+            <y>105.8</y>
+            <z>8</z>
+        </location>
+    </person>
+</persons>

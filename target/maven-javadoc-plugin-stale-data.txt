@@ -1,0 +1,61 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/user/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar;C:/Users/user/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/user/Desktop/ÈÒÌÎ/ןנמדא/כאבû/Lab1_2sem/src/main/java;C:/Users/user/Desktop/ÈÒÌÎ/ןנמדא/כאבû/Lab1_2sem/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/user/Desktop/ÈÒÌÎ/ןנמדא/כאבû/Lab1_2sem/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lab1_2sem - Person Collection 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/user/Desktop/ÈÒÌÎ/ןנמדא/כאבû/Lab1_2sem/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Lab1_2sem - Person Collection 1.0-SNAPSHOT API'
+cli
+domain
+service
+storage
+validation
+'C:/Users/user/Desktop/ÈÒÌÎ/ןנמדא/כאבû/Lab1_2sem/src/main/java/Main.java'
+C:\Users\user\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar = 1773895342241
+C:\Users\user\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar = 1773895342379
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\src\main\java\Main.java = 1773884451237
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\src\main\java = 1773895187088
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\generated-sources\annotations = 1773896302675
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\allclasses-index.html = 1773896308474
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\allpackages-index.html = 1773896308479
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\element-list = 1773896308234
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\help-doc.html = 1773896308533
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\index-all.html = 1773896308519
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\index.html = 1773896308442
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\jquery-ui.overrides.css = 1773896308554
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\Main.html = 1773896308171
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\member-search-index.js = 1773896308490
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\module-search-index.js = 1773896308482
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\overview-summary.html = 1773896308523
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\overview-tree.html = 1773896308436
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\package-search-index.js = 1773896308485
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\package-summary.html = 1773896308244
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\package-tree.html = 1773896308250
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\package-use.html = 1773896308413
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\script.js = 1773896308538
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\search.js = 1773896308541
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\stylesheet.css = 1773896308536
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\tag-search-index.js = 1773896308491
+C:\Users\user\Desktop\ÈÒÌÎ\ןנמדא\כאבû\Lab1_2sem\target\apidocs\type-search-index.js = 1773896308487
